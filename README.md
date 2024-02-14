@@ -19,10 +19,13 @@ The final project for the Domestika course on Introduction to Data Visualisation
 - Scraped episode data from the IMDB website using the [Instant Data Scraper Google Chrome Plugin](https://chromewebstore.google.com/detail/instant-data-scraper/ofaokhiedipichpaobibbnahnkdoiiah).
 - Conducted data cleaning and structuring, followed by z-score calculation ((Ep Score-Mean)/Standard Deviation) for standardized comparison.
 - Used the Heatmap for the first visualisation, therefore it easily shows the least popular shows, while others have good reviews throughout the whole show, bad endings or start.
+- 
   <img width="379" alt="image" src="https://github.com/marianahiroki/DO-Intro-to-DataViz-KDrama/assets/110165879/17d0ec2d-2d4c-42fa-90fc-8eff797d42ca">
 
 - Employed other visualizations as interactive charts in Tableau to analyze episode reviews and voting trends.
+- 
   <img width="990" alt="image" src="https://github.com/marianahiroki/DO-Intro-to-DataViz-KDrama/assets/110165879/4e014689-c4d2-420b-a90f-b29b029b436f">
+  
   <img width="991" alt="image" src="https://github.com/marianahiroki/DO-Intro-to-DataViz-KDrama/assets/110165879/b19cc123-4333-4c8b-8e89-10f2749ef84e">
 
 
