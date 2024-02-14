@@ -1,5 +1,5 @@
 # DO-Intro-to-DataViz-KDrama
-The final project for the Domestika course on Introduction to Data Visualisation using a data scraping plugin and Tableau Public.
+The final project for the Domestika course on Introduction to Data Visualisation using a data scraping plugin and [Tableau Public](https://public.tableau.com/app/profile/mariana.mayumi.hiroki.tamashiro/viz/Domestica_Visualisation_BestKDramas_2024/Sheet2?publish=yes).
 
 ## Introduction/Context: ##
 
